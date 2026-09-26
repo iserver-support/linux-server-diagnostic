@@ -37,7 +37,7 @@ Linux utility or subsystem is not present.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/linux-server-diagnostic.git
+git clone https://github.com/iserver-support/linux-server-diagnostic.git
 cd linux-server-diagnostic
 ````
 
